@@ -1,0 +1,392 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5dc221ca-bb86-41f1-a15e-48a3ea813131")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 143.51 60.96)
+		(size 55.88 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "01926454-f0ec-44c6-b7cb-1d419e03c0cd")
+		(property "Sheetname" "SDCARD"
+			(at 143.51 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SDCARD.kicad_sch"
+			(at 143.51 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 60.96)
+		(size 44.45 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2026674f-41f8-44ae-8ac9-dd7f635471ff")
+		(property "Sheetname" "EEPROM"
+			(at 25.4 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EEPROM.kicad_sch"
+			(at 25.4 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 59.69)
+		(size 58.42 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "399bd26d-42a3-4cca-b8e4-72617536e01c")
+		(property "Sheetname" "RS485"
+			(at 215.9 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS485.kicad_sch"
+			(at 215.9 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 21.59)
+		(size 46.99 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "651630f0-d7fb-4f36-b717-d65930401c84")
+		(property "Sheetname" "MCU"
+			(at 77.47 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 77.47 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 214.63 22.86)
+		(size 59.69 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6d6d7895-993c-4b8a-8f79-b46f75395114")
+		(property "Sheetname" "SPI1"
+			(at 214.63 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SPI1.kicad_sch"
+			(at 214.63 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 21.59)
+		(size 54.61 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b479d611-2d5c-4cf0-8802-ab2fb825c93c")
+		(property "Sheetname" "CANBUS"
+			(at 143.51 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CANBUS.kicad_sch"
+			(at 143.51 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 21.59)
+		(size 41.91 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bf4ba381-c584-4cd7-8054-ad98463a06e6")
+		(property "Sheetname" "POWER"
+			(at 25.4 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 25.4 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 26.67 96.52)
+		(size 45.72 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c6904ca7-b438-4435-9427-0df5caad97db")
+		(property "Sheetname" "PWM"
+			(at 26.67 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PWM.kicad_sch"
+			(at 26.67 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 62.23)
+		(size 49.53 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fe403324-762f-420e-a98a-2df072de169a")
+		(property "Sheetname" "BUTTON"
+			(at 81.28 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BUTTON.kicad_sch"
+			(at 81.28 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad Projeleri"
+				(path "/5dc221ca-bb86-41f1-a15e-48a3ea813131"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
