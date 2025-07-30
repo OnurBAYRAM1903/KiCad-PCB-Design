@@ -1177,16 +1177,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 96.52) (xy 142.24 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b4bc108-c168-4458-9a2d-320c302ad916")
-	)
-	(wire
-		(pts
 			(xy 95.25 116.84) (xy 101.6 116.84)
 		)
 		(stroke
@@ -1307,7 +1297,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 96.52) (xy 92.71 96.52)
+			(xy 83.82 96.52) (xy 85.09 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1327,7 +1317,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 88.9) (xy 142.24 88.9)
+			(xy 99.06 88.9) (xy 100.33 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1377,16 +1367,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 96.52) (xy 97.79 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61515140-d3c0-44d3-977c-129b85886d58")
-	)
-	(wire
-		(pts
 			(xy 110.49 48.26) (xy 110.49 54.61)
 		)
 		(stroke
@@ -1427,6 +1407,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 96.52) (xy 97.79 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79a5768a-0e1e-4eee-8b99-f7a3fa9a9b02")
+	)
+	(wire
+		(pts
 			(xy 100.33 88.9) (xy 100.33 114.3)
 		)
 		(stroke
@@ -1444,6 +1434,16 @@
 			(type default)
 		)
 		(uuid "92f5655d-43ac-4f34-98aa-402c5de75a4d")
+	)
+	(wire
+		(pts
+			(xy 90.17 96.52) (xy 92.71 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96b5f71e-fccf-48be-a78d-41884e1a0edf")
 	)
 	(wire
 		(pts
@@ -1467,16 +1467,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 96.52) (xy 127 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f75353c-2bfa-40f2-b122-e2d61ae73e1b")
-	)
-	(wire
-		(pts
 			(xy 83.82 76.2) (xy 96.52 76.2)
 		)
 		(stroke
@@ -1487,6 +1477,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 88.9) (xy 142.24 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6ef55d6-fe8d-42f9-a1af-93db225000a8")
+	)
+	(wire
+		(pts
 			(xy 139.7 54.61) (xy 139.7 62.23)
 		)
 		(stroke
@@ -1494,16 +1494,6 @@
 			(type default)
 		)
 		(uuid "ac79d6f9-ed86-4ac2-8b96-912bba40f4d0")
-	)
-	(wire
-		(pts
-			(xy 100.33 88.9) (xy 119.38 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0cb2955-341b-4e5d-8bc5-ab9a24437de2")
 	)
 	(wire
 		(pts
@@ -1527,7 +1517,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 88.9) (xy 100.33 88.9)
+			(xy 83.82 88.9) (xy 93.98 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1664,6 +1654,16 @@
 			(type default)
 		)
 		(uuid "e5d2e1f7-8657-4000-85a8-4639dd26c390")
+	)
+	(wire
+		(pts
+			(xy 97.79 96.52) (xy 142.24 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed07474c-9f16-403e-8443-ef24c060fe3c")
 	)
 	(wire
 		(pts
@@ -2224,7 +2224,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 129.54 96.52 90)
+		(at 87.63 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2233,7 +2233,7 @@
 		(fields_autoplaced yes)
 		(uuid "37505608-e591-445a-bf71-16ee27248c3d")
 		(property "Reference" "R21"
-			(at 129.54 90.17 90)
+			(at 87.63 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2241,7 +2241,7 @@
 			)
 		)
 		(property "Value" "1K8"
-			(at 129.54 92.71 90)
+			(at 87.63 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2249,7 +2249,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 129.54 96.52 0)
+			(at 87.63 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2258,7 +2258,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 96.52 0)
+			(at 87.63 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2267,7 +2267,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 129.54 96.52 0)
+			(at 87.63 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2495,7 +2495,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 121.92 88.9 90)
+		(at 96.52 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2504,7 +2504,7 @@
 		(fields_autoplaced yes)
 		(uuid "683eab48-928c-4479-b3de-c5f0cfd674fc")
 		(property "Reference" "R20"
-			(at 121.92 82.55 90)
+			(at 96.52 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2512,7 +2512,7 @@
 			)
 		)
 		(property "Value" "47R"
-			(at 121.92 85.09 90)
+			(at 96.52 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2520,7 +2520,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 121.92 88.9 0)
+			(at 96.52 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2529,7 +2529,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 88.9 0)
+			(at 96.52 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2538,7 +2538,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 121.92 88.9 0)
+			(at 96.52 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
